@@ -2,6 +2,9 @@
 
 This is the official codebase for paper DC-BENCH: Dataset Condensation Benchmark.
 
+The **leaderboard** is publicly avaiable at [DCBench Leaderboard](https://justincui03.github.io/dcbench/)
+
+
 # How to set up
 ## Step 1
 Run the following command to download the library to local
