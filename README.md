@@ -1,6 +1,6 @@
 <img src="pictures/logo.png">
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `We are currently updating our codebase, you may see inconsisitent code versions`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `01/22/2023 We are currently updating our codebase, you may see inconsisitent code versions`
 
 This is the official codebase for paper DC-BENCH: [Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639).  
 It covers the following:  
